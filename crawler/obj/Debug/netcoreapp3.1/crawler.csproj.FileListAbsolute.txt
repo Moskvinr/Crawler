@@ -1,0 +1,57 @@
+D:\Repositories\crawler\crawler\bin\Debug\netcoreapp3.1\crawler.exe
+D:\Repositories\crawler\crawler\bin\Debug\netcoreapp3.1\Lemmatization\full7z-mlteast-ru.lem
+D:\Repositories\crawler\crawler\bin\Debug\netcoreapp3.1\crawler.deps.json
+D:\Repositories\crawler\crawler\bin\Debug\netcoreapp3.1\crawler.runtimeconfig.json
+D:\Repositories\crawler\crawler\bin\Debug\netcoreapp3.1\crawler.runtimeconfig.dev.json
+D:\Repositories\crawler\crawler\bin\Debug\netcoreapp3.1\crawler.dll
+D:\Repositories\crawler\crawler\bin\Debug\netcoreapp3.1\crawler.pdb
+D:\Repositories\crawler\crawler\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Repositories\crawler\crawler\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Repositories\crawler\crawler\bin\Debug\netcoreapp3.1\LemmaSharp.dll
+D:\Repositories\crawler\crawler\bin\Debug\netcoreapp3.1\LemmaSharpPrebuilt.dll
+D:\Repositories\crawler\crawler\bin\Debug\netcoreapp3.1\LemmaSharpPrebuiltFull.dll
+D:\Repositories\crawler\crawler\bin\Debug\netcoreapp3.1\Lzma#.dll
+D:\Repositories\crawler\crawler\obj\Debug\netcoreapp3.1\crawler.csprojAssemblyReference.cache
+D:\Repositories\crawler\crawler\obj\Debug\netcoreapp3.1\crawler.AssemblyInfoInputs.cache
+D:\Repositories\crawler\crawler\obj\Debug\netcoreapp3.1\crawler.AssemblyInfo.cs
+D:\Repositories\crawler\crawler\obj\Debug\netcoreapp3.1\crawler.csproj.CopyComplete
+D:\Repositories\crawler\crawler\obj\Debug\netcoreapp3.1\crawler.dll
+D:\Repositories\crawler\crawler\obj\Debug\netcoreapp3.1\crawler.pdb
+D:\Visual Studio Projects\crawler\crawler\crawler\bin\Debug\netcoreapp3.1\crawler.exe
+D:\Visual Studio Projects\crawler\crawler\crawler\bin\Debug\netcoreapp3.1\Lemmatization\full7z-mlteast-ru.lem
+D:\Visual Studio Projects\crawler\crawler\crawler\bin\Debug\netcoreapp3.1\crawler.deps.json
+D:\Visual Studio Projects\crawler\crawler\crawler\bin\Debug\netcoreapp3.1\crawler.runtimeconfig.json
+D:\Visual Studio Projects\crawler\crawler\crawler\bin\Debug\netcoreapp3.1\crawler.runtimeconfig.dev.json
+D:\Visual Studio Projects\crawler\crawler\crawler\bin\Debug\netcoreapp3.1\crawler.dll
+D:\Visual Studio Projects\crawler\crawler\crawler\bin\Debug\netcoreapp3.1\crawler.pdb
+D:\Visual Studio Projects\crawler\crawler\crawler\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Visual Studio Projects\crawler\crawler\crawler\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Visual Studio Projects\crawler\crawler\crawler\bin\Debug\netcoreapp3.1\LemmaSharp.dll
+D:\Visual Studio Projects\crawler\crawler\crawler\bin\Debug\netcoreapp3.1\LemmaSharpPrebuilt.dll
+D:\Visual Studio Projects\crawler\crawler\crawler\bin\Debug\netcoreapp3.1\LemmaSharpPrebuiltFull.dll
+D:\Visual Studio Projects\crawler\crawler\crawler\bin\Debug\netcoreapp3.1\Lzma#.dll
+D:\Visual Studio Projects\crawler\crawler\crawler\obj\Debug\netcoreapp3.1\crawler.csprojAssemblyReference.cache
+D:\Visual Studio Projects\crawler\crawler\crawler\obj\Debug\netcoreapp3.1\crawler.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\crawler\crawler\crawler\obj\Debug\netcoreapp3.1\crawler.AssemblyInfo.cs
+D:\Visual Studio Projects\crawler\crawler\crawler\obj\Debug\netcoreapp3.1\crawler.csproj.CopyComplete
+D:\Visual Studio Projects\crawler\crawler\crawler\obj\Debug\netcoreapp3.1\crawler.dll
+D:\Visual Studio Projects\crawler\crawler\crawler\obj\Debug\netcoreapp3.1\crawler.pdb
+C:\D\dev\Поиск\crawler-master\crawler\bin\Debug\netcoreapp3.1\crawler.exe
+C:\D\dev\Поиск\crawler-master\crawler\bin\Debug\netcoreapp3.1\Lemmatization\full7z-mlteast-ru.lem
+C:\D\dev\Поиск\crawler-master\crawler\bin\Debug\netcoreapp3.1\crawler.deps.json
+C:\D\dev\Поиск\crawler-master\crawler\bin\Debug\netcoreapp3.1\crawler.runtimeconfig.json
+C:\D\dev\Поиск\crawler-master\crawler\bin\Debug\netcoreapp3.1\crawler.runtimeconfig.dev.json
+C:\D\dev\Поиск\crawler-master\crawler\bin\Debug\netcoreapp3.1\crawler.dll
+C:\D\dev\Поиск\crawler-master\crawler\bin\Debug\netcoreapp3.1\crawler.pdb
+C:\D\dev\Поиск\crawler-master\crawler\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\D\dev\Поиск\crawler-master\crawler\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\D\dev\Поиск\crawler-master\crawler\bin\Debug\netcoreapp3.1\LemmaSharp.dll
+C:\D\dev\Поиск\crawler-master\crawler\bin\Debug\netcoreapp3.1\LemmaSharpPrebuilt.dll
+C:\D\dev\Поиск\crawler-master\crawler\bin\Debug\netcoreapp3.1\LemmaSharpPrebuiltFull.dll
+C:\D\dev\Поиск\crawler-master\crawler\bin\Debug\netcoreapp3.1\Lzma#.dll
+C:\D\dev\Поиск\crawler-master\crawler\obj\Debug\netcoreapp3.1\crawler.csprojAssemblyReference.cache
+C:\D\dev\Поиск\crawler-master\crawler\obj\Debug\netcoreapp3.1\crawler.AssemblyInfoInputs.cache
+C:\D\dev\Поиск\crawler-master\crawler\obj\Debug\netcoreapp3.1\crawler.AssemblyInfo.cs
+C:\D\dev\Поиск\crawler-master\crawler\obj\Debug\netcoreapp3.1\crawler.csproj.CopyComplete
+C:\D\dev\Поиск\crawler-master\crawler\obj\Debug\netcoreapp3.1\crawler.dll
+C:\D\dev\Поиск\crawler-master\crawler\obj\Debug\netcoreapp3.1\crawler.pdb
