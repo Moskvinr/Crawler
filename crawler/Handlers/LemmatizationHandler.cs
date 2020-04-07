@@ -26,16 +26,16 @@ namespace crawler.Handlers
         {
             try
             {
-                using (enStream)
+                using (ruStream)
                 {
-                    return enLemmatizer.Lemmatize(word);
+                    return ruLemmatizer.Lemmatize(word);
                 }
             }
             catch(Exception _)
             {
-                using (ruStream)
+                using (enStream)
                 {
-                    return ruLemmatizer.Lemmatize(word);
+                    return enLemmatizer.Lemmatize(word);
                 }
             }
             catch

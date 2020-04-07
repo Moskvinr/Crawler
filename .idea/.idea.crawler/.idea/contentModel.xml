@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\D\dev\Поиск\crawler-master" t="IncludeFlat">
+      <e p="crawler" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="crawler.csproj" t="IncludeRecursive" />
+        <e p="Handlers" t="Include">
+          <e p="FilesProvider.cs" t="Include" />
+          <e p="HtmlWorker.cs" t="Include" />
+          <e p="IndexerHandler.cs" t="Include" />
+          <e p="LemmatizationHandler.cs" t="Include" />
+          <e p="QueryWorker.cs" t="Include" />
+        </e>
+        <e p="Lemmatization" t="Include">
+          <e p="full7z-mlteast-en.lem" t="Include" />
+          <e p="full7z-mlteast-ru.lem" t="Include" />
+          <e p="LemmaSharp.dll" t="Include" />
+          <e p="LemmaSharpPrebuilt.dll" t="Include" />
+          <e p="LemmaSharpPrebuiltFull.dll" t="Include" />
+          <e p="Lzma#.dll" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="ContentInfo.cs" t="Include" />
+          <e p="HtmlInfo.cs" t="Include" />
+          <e p="WordFrequencyInfo.cs" t="Include" />
+          <e p="WordInfo.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="crawler.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="crawler.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Xiaomi\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Xiaomi\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_crawler.713484341.00" t="ExcludeRecursive" />
+  </component>
+</project>
